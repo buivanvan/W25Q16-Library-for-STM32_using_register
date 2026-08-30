@@ -34,7 +34,7 @@ In file W25Q16.h, you uncomment series you use
 #include "stm32f4xx.h"
 ```
 
-+Step 2: You include library, then initialize SPI1 and use
++ Step 2: You include library, then initialize SPI1 and use
 ```c
 SPI1_Init();
 ```
